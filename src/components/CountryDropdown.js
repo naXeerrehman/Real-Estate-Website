@@ -1,5 +1,4 @@
 
-
 import React, { useContext, useState } from "react";
 // import icons
 import { RiMapPinLine, RiArrowUpSLine, RiArrowDownSLine } from "react-icons/ri";
